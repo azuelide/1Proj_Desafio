@@ -1,0 +1,13 @@
+Alguns comados úteis do Git/GitHub
+email seria interessante que fossem os mesmo, pq qdo faz o commit repositorio local git vai atrelar o commit  no email e o username local.
+- para verificar   você vai digitar o comando git config --list
+- para alterar você git config --global --unset  user.email
+- depois git config --global --unset  user.username 
+- esses dois atributos serão limpo, e na sequência você configura o email e o username correto
+- comando git config --global user.email "xpto@yahoo.com"
+- e git config --global user.username "Branca" (nome hipotético)
+
+
+
+
+
